@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Club de golf de printemps et d\'été</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="hint_email">E-Mail</string>
+    <string name="hint_name">Nom et prénom</string>
+    <string name="open_navigation_bar">Ouvrir la barre de navigation</string>
+    <string name="close_navigation_bar">Fermer la barre de navigation</string>
+    <string name="btn_login">CONNEXION</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_login">Déjà enregistré! Connectez-moi.</string>
+    <string name="btn_link_to_register">" Pas un membre? S'inscrire maintenant."</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="name">SE Nom et prénom</string>
+    <string name="btn_logout">" SE DÉCONNECTER"</string>
+    <string name="summer_and_spring_golf_club">Club de golf d\'été et de printemps</string>
+    <string name="settings">Paramètres</string>
+    <string name="log_out">"Se déconnecter "</string>
+    <string name="languages">Langues</string>
+    <string name="home">Accueil</string>
+    <string name="coastal_golf_club_resort">Club de golf côtier Resort</string>
+    <string name="golf_club_located_on_the_beautiful_coastline">Club de golf situé sur la magnifique côte</string>
+    <string name="services">Prestations de service</string>
+    <string name="these_are_some_fo_the_services_offered_by_the_golf_club">Voici quelques-uns des services offerts par le club de golf</string>
+    <string name="serengeti_gc">Golf du Serengeti</string>
+    <string name="coastal_gc">Club de golf côtier</string>
+    <string name="mau_gc">Club de golf Highland Mau</string>
+    <string name="mara_gc">Club de golf des plaines de Mara</string>
+    <string name="buffalo_springs">Club de golf de Buffalo Springs</string>
+    <string name="serengeti_desc">Club de golf situé sur le magnifique serengeti</string>
+    <string name="mau_desc">Club de golf situé dans la magnifique région de la forêt de mau</string>
+    <string name="mara_desc">" Club de golf situé sur la magnifique Mara"</string>
+    <string name="hotsprings_desc">Club de golf situé dans les sources chaudes</string>
+    <string name="description_golfClubDetails">La description</string>
+    <string name="detail_of_services">Ceci est un détail des services</string>
+    <string name="myCoastal">• Le club de golf côtier offre de belles vues sur la magnifique côte et un magnifique coucher de soleil • Nous proposons une variété de boissons et de plats uniquement connus pour être servis dans cette région particulière • La présence de surf chaque fois que vous avez terminé avec le golf ou même les activités de parachutisme être organisé • Nous proposons également une salle de sport, du tennis et de la natation et bien d\'autres activités</string>
+    <string name="serengeti_clubs">• Serengeti Estates consiste à vivre pleinement et à offrir le meilleur en matière de loisirs et de style de vie. • Deux parcours de golf de classe mondiale promettent un plaisir de golf ininterrompu, tandis que son offre est inégalée, chaque restaurant dépasse les normes internationales, offrant aux résidents et à leurs invités une expérience culinaire de classe mondiale dans le confort du domaine. • Si vous recherchez le luxe perdu des espaces ouverts, une vie sécurisée, la commodité de l\'absence d\'entretien, une vue à 360 ° sur un parcours de golf de classe mondiale et le nec plus ultra des loisirs et du style de vie, alors Serengeti Estates pourrait être votre nouvelle adresse de rêve. • Que vous soyez un retraité cherchant à profiter du style de vie d\'un domaine de golf, ou une famille active recherchant peu d\'entretien et une vie sûre, Serengeti Estates a quelque chose pour tout le monde.</string>
+    <string name="higland_mau_clubs">• Le complexe dispose d\'un parcours de golf bien entretenu de 9 trous. •Il est parsemé d\'étangs, de bancs de sable et est le seul cours coupé en deux par l\'équateur en Afrique, permettant de traverser tranquillement de l\'hémisphère nord à l\'hémisphère sud. •Le parcours a été repensé pour refléter les normes internationales du golf et a suscité un nouvel intérêt chez les entreprises qui viennent ici pour une partie de golf. • Le paysage pittoresque de la propriété confère une atmosphère sereine et une toile de fond idéale pour le départ, tandis que le temps est parfait, jamais trop chaud ou trop froid pour putter une balle de golf. • Pour les clients d\'entreprise, le club propose une option de golf nocturne supplémentaire « fun » sur le trou n° 1 pour les événements au club-house de golf.</string>
+    <string name="mara_plains">• Le complexe dispose d\'un parcours de golf bien entretenu de 9 trous. •Il est parsemé d\'étangs, de bancs de sable et est le seul cours coupé en deux par l\'équateur en Afrique, permettant de traverser tranquillement de l\'hémisphère nord à l\'hémisphère sud. •Le parcours a été repensé pour refléter les normes internationales du golf et a suscité un nouvel intérêt chez les entreprises qui viennent ici pour une partie de golf. • Le paysage pittoresque de la propriété confère une atmosphère sereine et une toile de fond idéale pour le départ, tandis que le temps est parfait, jamais trop chaud ou trop froid pour putter une balle de golf. • Pour les clients d\'entreprise, le club propose une option de golf nocturne supplémentaire « fun » sur le trou n° 1 pour les événements au club-house de golf.</string>
+    <string name="buffaloSprings">• Le complexe dispose d\'un parcours de golf bien entretenu de 9 trous. •Il est parsemé d\'étangs, de bancs de sable et est le seul cours coupé en deux par l\'équateur en Afrique, permettant de traverser tranquillement de l\'hémisphère nord à l\'hémisphère sud. •Le parcours a été repensé pour refléter les normes internationales du golf et a suscité un nouvel intérêt chez les entreprises qui viennent ici pour une partie de golf. • Le paysage pittoresque de la propriété confère une atmosphère sereine et une toile de fond idéale pour le départ, tandis que le temps est parfait, jamais trop chaud ou trop froid pour putter une balle de golf. • Pour les clients d\'entreprise, le club propose une option de golf nocturne supplémentaire « fun » sur le trou n° 1 pour les événements au club-house de golf.</string>
+    <string name="confirm_password">Confirmez le mot de passe</string>
+</resources>

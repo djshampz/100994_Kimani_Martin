@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Spring and Summer Golf Club</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Full Name</string>
+    <string name="open_navigation_bar">Open Navigation Bar</string>
+    <string name="close_navigation_bar">Close Navigation Bar</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registered! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Full Name</string>
+    <string name="summer_and_spring_golf_club">Summer and Spring Golf Club</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log Out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="languages">Languages</string>
+    <string name="home">Home</string>
+    <string name="coastal_golf_club_resort">Coastal Golf Club Resort</string>
+    <string name="golf_club_located_on_the_beautiful_coastline">Golf Club located on the beautiful coastline</string>
+    <string name="services">Services</string>
+    <string name="these_are_some_fo_the_services_offered_by_the_golf_club">These are some fo the services offered by the golf club</string>
+    <string name="serengeti_gc">Serengeti Golf Club</string>
+    <string name="coastal_gc">Coastal Golf Club</string>
+    <string name="mau_gc">Highland Mau GolfClub</string>
+    <string name="mara_gc">Mara Plains Golf Club</string>
+    <string name="buffalo_springs">Buffalo Springs Golf Club</string>
+    <string name="serengeti_desc">Golf Club located on the beautiful serengeti</string>
+    <string name="mau_desc">Golf Club located on the beautiful mau Forest area</string>
+    <string name="mara_desc">Golf Club located on the beautiful Mara</string>
+    <string name="hotsprings_desc">Golf Club located in the hot Springs</string>
+    <string name="description_golfClubDetails">Description</string>
+    <string name="detail_of_services">This is a detail of services</string>
+    <string name="myCoastal" >"          \t •\tCoastal Golf Club offer nice views of the beautiful Coast and a beautiful sun sets
+        \t •\tWe offer a variety of drinks and food only known to be served in this particular region
+        \t •\tPrescence of surfing whenever you are done with golfing or even hot skydiving activities can be arranged
+        •\tWe also offer gym tennis and swimming and many other more activities
+        "</string>
+    <string name ="serengeti_clubs">"
+        •Serengeti Estates is all about living life to the fullest and offers the very best in leisure and lifestyle.
+        •Two world-class golf courses promise uninterrupted golfing pleasure, while unrivalled in its offering, every restaurant exceeds international standards, offering residents and their guests a truly world class dining experience within the comfort of the estate.
+        •If you crave the lost luxury of open spaces, secure living, the convenience of no maintenance, 360 ̊ views of a world-class golf course and the ultimate in leisure and lifestyle, then Serengeti Estates could be your new dream address.
+        •Whether you are a retiree looking to enjoy the golf estate lifestyle, or an active family seeking low maintenance and secure living, Serengeti Estates has something for everyone.     "</string>
+    <string name ="higland_mau_clubs">"
+        •The resort has a scenic 9-hole manicured golf course.
+        •It is interspersed with ponds, sand banks and is the only course bisected by the Equator in Africa– allowing one to leisurely cross from the Northern to the Southern Hemisphere.
+        •The course has been redesigned to mirror international golfing standards, and has seen a new interest in corporate firms making their way here for a round of golf.
+        •The property's picturesque landscape lends a serene atmosphere and ideal backdrop for teeing off, whilst the weather is perfect, never too hot or cold to putt a golf ball.
+        •For corporate guests the Club offers an additional \\‘fun\\’ night golf option on hole #1 for events at the golf clubhouse.     "</string>
+    <string name ="mara_plains">"
+        •The resort has a scenic 9-hole manicured golf course.
+        •It is interspersed with ponds, sand banks and is the only course bisected by the Equator in Africa– allowing one to leisurely cross from the Northern to the Southern Hemisphere.
+        •The course has been redesigned to mirror international golfing standards, and has seen a new interest in corporate firms making their way here for a round of golf.
+        •The property's picturesque landscape lends a serene atmosphere and ideal backdrop for teeing off, whilst the weather is perfect, never too hot or cold to putt a golf ball.
+        •For corporate guests the Club offers an additional \\‘fun\\’ night golf option on hole #1 for events at the golf clubhouse.     "</string>
+    <string name ="buffaloSprings">"
+        •The resort has a scenic 9-hole manicured golf course.
+        •It is interspersed with ponds, sand banks and is the only course bisected by the Equator in Africa– allowing one to leisurely cross from the Northern to the Southern Hemisphere.
+        •The course has been redesigned to mirror international golfing standards, and has seen a new interest in corporate firms making their way here for a round of golf.
+        •The property's picturesque landscape lends a serene atmosphere and ideal backdrop for teeing off, whilst the weather is perfect, never too hot or cold to putt a golf ball.
+        •For corporate guests the Club offers an additional \\‘fun\\’ night golf option on hole #1 for events at the golf clubhouse.     "</string>
+    <string name="confirm_password">Confirm Password</string>
+
+</resources>

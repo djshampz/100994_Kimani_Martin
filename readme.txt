@@ -1,0 +1,1 @@
+apk folder is located in the app/release/ path 

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lbl_name">
+
+    <TextView
+        android:id="@+id/details_header"
+        android:layout_width="match_parent"
+        android:layout_height="76dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="This is the header"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/image_details"
+        android:layout_width="match_parent"
+        android:layout_height="262dp"
+        android:layout_below="@id/details_header"
+        android:layout_marginTop="-1dp"
+        android:src="@drawable/coastal" />
+
+    <TextView
+
+        android:id="@+id/actualsDetail_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_details"
+        android:text="Details"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/actualDetails"
+        android:layout_width="match_parent"
+        android:layout_height="366sp"
+        android:layout_below="@id/actualsDetail_header"
+        android:text="This are some details"
+        android:textStyle="italic" />
+
+
+</RelativeLayout>
